@@ -2,6 +2,7 @@
 *.war
 *.ear
 target/
+bin/
 *.iml
 .idea/
 .project
